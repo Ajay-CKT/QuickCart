@@ -1,0 +1,7 @@
+.social-media-btns {
+  @apply size-12 bg-[hsl(0,0%,100%)] rounded-full flex justify-center items-center hover:cursor-pointer;
+}
+
+.quick-links {
+  @apply border-b-2 pb-4 border-[#89023E] hover:cursor-pointer hover:text-[#89023E];
+}
