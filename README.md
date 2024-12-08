@@ -25,4 +25,4 @@ This project is a simple e-commerce application built using React and the Fake S
    - cd QuickCart
    - npm install
    - npm run dev
-   - copy the link and paste on the browser to view the website. 
+   - copy the link and paste on the browser to view the website.
