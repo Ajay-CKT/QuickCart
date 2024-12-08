@@ -21,8 +21,8 @@ This project is a simple e-commerce application built using React and the Fake S
 ## Installation
 
 1. Clone this repository:
-   git clone https://github.com/Ajay-CKT/QuickCart.git
-   cd QuickCart
-   npm install
-   npm run dev
-   copy the link and paste on the browser to view the website. 
+   - git clone https://github.com/Ajay-CKT/QuickCart.git
+   - cd QuickCart
+   - npm install
+   - npm run dev
+   - copy the link and paste on the browser to view the website. 
